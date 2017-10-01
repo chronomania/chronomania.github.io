@@ -1,0 +1,34 @@
+
+body
+{
+	background-image: url("img/bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+#page_banner
+{
+	margin-top: 1em;
+}
+
+.social_logos_vector
+{
+	width: 100% \9;
+}
+.social_legend
+{
+	color: #6b6b6b;
+	font-size: 0.8em;
+	text-align: center;
+}
+.social_legend:hover
+{
+	color: #4c4b4b;
+}
+
+.social_link:hover
+{
+	text-decoration: none;
+}
