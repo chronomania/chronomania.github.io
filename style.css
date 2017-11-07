@@ -10,7 +10,7 @@ body
 	background-repeat: repeat;
 	background-attachment: fixed;
 	background-position: center;
-	font-family: 'ChicagoFLFRegular'; 
+	font-family: 'ChicagoFLFRegular', monospace; 
 	font-weight: normal; 
 	font-style: normal; 
 	color: white;
