@@ -51,6 +51,12 @@ body
 {
 	width: 100% \9;
 }
+
+.social_logos_raster
+{
+	image-rendering: auto;
+}
+
 .social_legend
 {
 	color: #fff;
@@ -75,10 +81,10 @@ body
 #page_footer
 {
 	font-size: 16pt;
-	position: absolute;
+/* 	position: absolute;
 	right: 0;
 	bottom: 0;
-	left: 0;
+	left: 0; */
 	padding: 1rem;
 	/* background-color: rgba(239, 239, 239, 0.50); */
 	text-align: center;
